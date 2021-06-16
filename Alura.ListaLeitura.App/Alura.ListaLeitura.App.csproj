@@ -11,4 +11,13 @@
     <PackageReference Include="Microsoft.AspNetCore" Version="2.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Views\Formulario.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Views\ParaLer.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

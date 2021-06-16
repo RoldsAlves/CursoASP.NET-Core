@@ -10,3 +10,5 @@ D:\Cursos Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.
 D:\Cursos Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
 D:\Cursos Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
 D:\Cursos Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
+D:\Cursos Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Formulario.html
+D:\Cursos Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\ParaLer.html
